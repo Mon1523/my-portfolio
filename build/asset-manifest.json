@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-apps/static/css/main.42e8792d.css",
+    "main.js": "/my-apps/static/js/main.e166f6b2.js",
+    "static/media/articles.jpg": "/my-apps/static/media/articles.bf0a3f04f666c9ece3a2.jpg",
+    "static/media/OneDiliman.png": "/my-apps/static/media/OneDiliman.3f13873bfbf8f713a762.png",
+    "static/media/protect.png": "/my-apps/static/media/protect.318b577e864c7330b340.png",
+    "static/media/p2_k.png": "/my-apps/static/media/p2_k.5b89b665f423019a46d0.png",
+    "static/media/p1_k.png": "/my-apps/static/media/p1_k.0c5d2048c9a65522beb9.png",
+    "static/media/p2_s.png": "/my-apps/static/media/p2_s.f0d5658790dd3185b912.png",
+    "static/media/p1_s.png": "/my-apps/static/media/p1_s.68ebfd3046a70ac92f9a.png",
+    "index.html": "/my-apps/index.html",
+    "main.42e8792d.css.map": "/my-apps/static/css/main.42e8792d.css.map",
+    "main.e166f6b2.js.map": "/my-apps/static/js/main.e166f6b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e8792d.css",
+    "static/js/main.e166f6b2.js"
+  ]
+}
