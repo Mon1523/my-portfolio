@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Mon1523/my-apps.git 
+
+git branch -M main 
+git push -u origin main
