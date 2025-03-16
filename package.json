@@ -1,8 +1,8 @@
 {
-  "name": "my-apps",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mon1523.github.io/my-apps",
+  "homepage": "https://mon1523.github.io/my-portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -13,7 +13,7 @@
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@types/react-syntax-highlighter": "^15.5.13",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",
